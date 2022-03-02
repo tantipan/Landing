@@ -2,6 +2,7 @@
 
 h1, h2, h3 {
   font-family: 'Lato', sans-serif;
+  text-decoration: underline;
 }
 
 p, li, a, small {
